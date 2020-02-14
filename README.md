@@ -8,3 +8,15 @@ Optimal
 LRU
 CLOCK
 FIFO
+
+Input example:
+3  // number of pages allocated to a process
+LRU
+1  // pages sequence
+3 
+7 
+8 
+9 
+2
+6
+-1 //End of sequence marker 
